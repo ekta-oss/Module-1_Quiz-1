@@ -25,8 +25,8 @@ Then open the address it prints. Double-clicking `index.html` does not work, bec
 
 ## Content status
 
-How it works: one question per screen with four progress dots; immediate feedback (right: tick and chime; wrong: gentle shake and an amber card, try again); no negative marking; ungraded self-check, not the Module Assessment. The whole quiz has a 10-minute limit; when it lapses, or when the learner resumes after a pause, the quiz starts again from the first question. Each attempt is recorded in the browser as `1.8.quiz-log` (answers, tries, right first time).
+How it works: eight questions, one per screen, with progress dots; immediate feedback (right: tick and chime; wrong: gentle shake and an amber card, try again); no negative marking; ungraded self-check, not the Module Assessment. The whole quiz has a 10-minute limit; when it lapses, or when the learner resumes after a pause, the quiz starts again from the first question. Each attempt is recorded in the browser as `1.8.quiz-log` (answers, tries, right first time).
 
-Only the listening item has audio (`media/audio/M1_S01_08_LIS_01.mp3`, "Good afternoon.", interim computer voice: replace it with a recording of the same name and push again).
+Only the two listening items have audio (`media/audio/M1_S01_08_LIS_01.mp3` "Good afternoon." and `media/audio/M1_S01_02_ANA_01.mp3` Ananya's line; interim computer voice: replace a file with a recording of the same name and push again).
 
 Open point: the brief says "drag 'am' into both blanks" for Q3, which would make "This am my first day." The quiz uses two chips, **am** and **is** (I am Ananya. This is my first day.), pending confirmation.
